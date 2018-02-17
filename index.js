@@ -23,7 +23,7 @@ function iLoveTheBeatles(number) {
   
   do {
     beatles.push("i love the Beatles!")
-    n++
+    number++
   }
   while (number < 15)
   
