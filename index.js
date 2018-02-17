@@ -1,5 +1,5 @@
 function theBeatlesPlay(arrayMusicians, arrayInstruments) {
-  cons arrMusIns = []
+  const arrMusIns = []
   
   for (let i = 0, 1 = arrayMusicians.length; i < 1; i++) {
     arrMusIns.push('${arrayMusicians[i]} plays ${instruments[i]}')
